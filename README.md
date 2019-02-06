@@ -9,9 +9,9 @@ Run above code as following steps
 step 1 :- for compaling project type following commnd in your command prompt
 
 javac login.java
+
 step 2 :- for run project type following command
-
 java login
-step 3 : enter username & password as follow
 
+step 3 : enter username & password as follow
 username:abcd password:abcd
